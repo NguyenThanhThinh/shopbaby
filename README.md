@@ -1,0 +1,2 @@
+# shopbaby
+.net core
